@@ -18,7 +18,7 @@
 ## 해시(Hash)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [python3](깃허브내파일경로) | Level 1 |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [python3](HashTable_Q1_완주선수.ipynb) | Level 1 |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [python3](깃허브내파일경로) | Level 2 |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | [python3](깃허브내파일경로) | Level 2 |
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) | [python3](깃허브내파일경로) | Level 3 |
