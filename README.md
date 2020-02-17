@@ -1,5 +1,6 @@
 # 1.목표
-프로그래머스(https://programmers.co.kr/learn/challenges) 사이트 내 코딩테스트에 대한 문제풀이의 공유
+프로그래머스(https://programmers.co.kr/learn/challenges) 사이트 내 코딩테스트에 대한 문제풀이의 공유   
+(초안 작성 일자: 2020년 2월 17일)
 
 ***
 
