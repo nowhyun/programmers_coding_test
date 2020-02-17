@@ -17,9 +17,16 @@
 ## 해시(Hash)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [python3](python3/level1_2016.py) | Level 1 |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [python3](깃허브내파일경로) | Level 1 |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [python3](깃허브내파일경로) | Level 2 |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | [python3](깃허브내파일경로) | Level 2 |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3) | [python3](깃허브내파일경로) | Level 3 |
+
 
 ## 스택/큐(Stack/Queue)
+| 문제 | 코드 | 레벨 |
+| ------------- |:-------------:|:-------:|
+| [전화번호 목록](문제주소) | [python3](깃허브내파일경로) | Level 2 |
 
 ## 힙(Heap)
 
