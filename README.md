@@ -4,6 +4,7 @@
 ***
 
 # 2.참여
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 경북대학교 수학과 인공지능 동아리 BigAi 소속 이하 5명   
 	- 이장희   
 	- 이재현(nowhyun)   
@@ -28,6 +29,10 @@
 | ------------- |:-------------:|:-------:|
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588?language=python3) | [python3](깃허브내파일경로) | Level 2 |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [python3](깃허브내파일경로) | Level 2 |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [python3](깃허브내파일경로) | Level 2 |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3) | [python3](깃허브내파일경로) | Level 2 |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585?language=python3) | [python3](깃허브내파일경로) | Level 2 |
+| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3) | [python3](깃허브내파일경로) | Level 2 |
 
 
 ## 힙(Heap)
