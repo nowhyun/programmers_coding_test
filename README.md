@@ -16,7 +16,7 @@
 # 목차
 ## 해시(Hash)
 | 문제 | 코드 | 레벨 |
-| ------------- |:-------------:| -------:|
+| ------------- |:-------------:|:-------:|
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3) | [python3](python3/level1_2016.py) | Level 1 |
 
 ## 스택/큐(Stack/Queue)
