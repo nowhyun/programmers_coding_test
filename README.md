@@ -69,7 +69,7 @@
 ## 이분탐색(Binary Search)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) | [python3](깃허브내파일경로) | Level 3 |
+| [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) | [python3](https://github.com/nowhyun/programmers_coding_test/tree/master/Binary_Search) | Level 3 |
 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [python3](깃허브내파일경로) | Level 3 |
 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | [python3](깃허브내파일경로) | Level 4 |
 
