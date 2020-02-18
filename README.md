@@ -56,7 +56,10 @@
 ## 완전탐색(Full Search)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2  |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [python3](깃허브내파일경로) | Level 1  |
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [python3](깃허브내파일경로) | Level 2  |
+| [숫자야구](https://programmers.co.kr/learn/courses/30/lessons/42841) | [python3](깃허브내파일경로) | Level 2  |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [python3](깃허브내파일경로) | Level 2  |
 
 ## 탐욕법(Greedy)
 | 문제 | 코드 | 레벨 |
