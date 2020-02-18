@@ -39,17 +39,24 @@
 ## 힙(Heap)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2 |
+| [더 맴게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [python3](깃허브내파일경로) | Level 2 |
+| [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [python3](깃허브내파일경로) | Level 2 |
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [python3](깃허브내파일경로) | Level 3 |
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [python3](깃허브내파일경로) | Level 3 |
+
 
 ## 정렬(Sort)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2 |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [python3](깃허브내파일경로) | Level 1 |
+| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [python3](깃허브내파일경로) | Level 2 |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [python3](깃허브내파일경로) | Level 2 |
+
 
 ## 완전탐색(Full Search)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2 |
+| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2  |
 
 ## 탐욕법(Greedy)
 | 문제 | 코드 | 레벨 |
