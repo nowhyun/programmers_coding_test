@@ -74,5 +74,7 @@
 ## 그래프(Graph)
 | 문제 | 코드 | 레벨 |
 | ------------- |:-------------:|:-------:|
-| [문제명](문제주소) | [python3](깃허브내파일경로) | Level 2 |
+| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [python3](깃허브내파일경로) | Level 3 |
+| [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | [python3](깃허브내파일경로) | Level 3 |
+| [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [python3](깃허브내파일경로) | Level 5 |
 
