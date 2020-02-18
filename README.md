@@ -10,7 +10,7 @@
 	- 이장희(zzapzzap)  
 	- 이재현(nowhyun)   
 	- 홍태균(minicks)   
-	- 홍승이   
+	- 홍승이(seungyi)  
 	- 최은서   
 
 ***
