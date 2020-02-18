@@ -7,7 +7,7 @@
 # 2.참여
 <img src="BigAi.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="BigAi"></img>   
 경북대학교 수학과 인공지능 동아리 BigAi 소속 이하 5명   
-	- 이장희(  
+	- 이장희(zzapzzap)  
 	- 이재현(nowhyun)   
 	- 홍태균(minicks)   
 	- 홍승이   
